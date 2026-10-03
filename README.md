@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of blt950/oauth-generic.** Not for installation: use [Packagist](https://packagist.org/packages/blt950/oauth-generic) or the [upstream repository](https://github.com/blt950/flarum-ext-oauth-generic).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/blt950-oauth-generic/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/blt950-oauth-generic/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-07-01 | `^1.2.0` | [Browse](https://github.com/flarchive/blt950-oauth-generic/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/blt950-oauth-generic.json](https://github.com/flarchive/archive-index/blob/main/packages/blt950-oauth-generic.json)
 
